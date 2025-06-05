@@ -1,0 +1,13 @@
+{
+    "metadata": {
+        "issuer": "https://gitlab.com/"
+    },
+    "parameters": {
+        "client_id": "8bcc887c9fce2f145b37207f7d5e058a3289baa16e2599fe0bc1f90b6dc39cc8",
+        "scope": ["openid", "email", "api"]
+    },
+    "revocation": {
+        "client_id": "8bcc887c9fce2f145b37207f7d5e058a3289baa16e2599fe0bc1f90b6dc39cc8",
+        "client_secret": "gloas-2eab1f44c83a5a07c3991852206ba000379e18e9384380d05f850736e11979fb"
+    }
+}
